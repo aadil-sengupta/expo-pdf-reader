@@ -27,11 +27,11 @@
   },
   "peerDependencies": {
     "expo": "^48.0.0",
-    "expo-constants": "^13.1.1", // Update this to the version compatible with Expo 48
-    "expo-file-system": "^14.0.0", // Update this to the version compatible with Expo 48
-    "react": "17.0.2", // This should be compatible with Expo 48, but verify if Expo recommends a newer version
-    "react-native": "https://github.com/expo/react-native/archive/sdk-48.0.0.tar.gz", // This points to the Expo fork of React Native for SDK 48
-    "react-native-webview": "^11.18.1", // Update this to the version compatible with Expo 48 if needed
-    "rn-pdf-reader-js": "4.1.1" // Verify if this needs an update as well
+    "expo-constants": "^13.1.1",
+    "expo-file-system": "^14.0.0", 
+    "react": "17.0.2", 
+    "react-native": "https://github.com/expo/react-native/archive/sdk-48.0.0.tar.gz",
+    "react-native-webview": "^11.18.1",
+    "rn-pdf-reader-js": "4.1.1" 
   }
 }
