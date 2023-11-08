@@ -30,7 +30,7 @@
     "expo-constants": "~14.2.1",
     "expo-file-system": "^14.0.0", 
     "react": "18.2.0", 
-    "react-native": "https://github.com/expo/react-native/archive/sdk-48.0.0.tar.gz",
+    "react-native": "0.71.14",
     "react-native-webview": "^11.18.1",
     "rn-pdf-reader-js": "4.1.1" 
   }
