@@ -32,6 +32,6 @@
     "react": "18.2.0", 
     "react-native": "0.71.14",
     "react-native-webview": "^11.18.1",
-    "rn-pdf-reader-js": "4.1.1" 
+    "rn-pdf-reader-js": "github:aadil-sengupta/rn-pdf-reader-js#master"
   }
 }
